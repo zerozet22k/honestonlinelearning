@@ -2,7 +2,7 @@
 
 Online learning platform for discovering courses, instructors, and learning content, with authenticated user and dashboard flows.
 
-[Live site](https://honestonlinelearning.vercel.app/) · [Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [MIT License](LICENSE)
+[Live site](https://honestonlinelearning.vercel.app/) · [Code of Conduct](CODE_OF_CONDUCT.md) · [MIT License](LICENSE)
 
 ## Overview
 
@@ -69,10 +69,6 @@ src/
   types/         TypeScript types
   utils/         Utility functions
 ```
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
 
 ## Code of Conduct
 
